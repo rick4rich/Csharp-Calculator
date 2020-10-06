@@ -1,0 +1,6 @@
+c:\users\rickrich\documents\visual studio 2015\Projects\All In One\All In One\bin\Debug\All In One.exe.config
+c:\users\rickrich\documents\visual studio 2015\Projects\All In One\All In One\bin\Debug\All In One.exe
+c:\users\rickrich\documents\visual studio 2015\Projects\All In One\All In One\bin\Debug\All In One.pdb
+c:\users\rickrich\documents\visual studio 2015\Projects\All In One\All In One\obj\Debug\All In One.csprojResolveAssemblyReference.cache
+c:\users\rickrich\documents\visual studio 2015\Projects\All In One\All In One\obj\Debug\All In One.exe
+c:\users\rickrich\documents\visual studio 2015\Projects\All In One\All In One\obj\Debug\All In One.pdb
